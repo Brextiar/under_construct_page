@@ -1,0 +1,22 @@
+[
+  {
+    "fr": {
+      "h1": "Mise à jour du site.",
+      "p1": "Bonjour,",
+      "p2": "Le site est actuellement en cours de mise à jour.",
+      "p3": "Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée.",
+      "p4": "Si vous avez des questions, n'hésitez pas à nous contacter.",
+      "p5": "Merci de votre compréhension."
+    },
+    "en": {
+      "h1": "Website update.",
+      "p1": "Hello,",
+      "p2": "The website is currently being updated.",
+      "p3": "We apologize for the inconvenience.",
+      "p4": "If you have any questions, please contact us.",
+      "p5": "Thank you for your understanding."
+    },
+    "tel": "01 02 03 04 05",
+    "mail": "toto@toto.fr"
+  }
+]
